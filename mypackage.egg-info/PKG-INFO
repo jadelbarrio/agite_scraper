@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1.0
+Summary: A short description
+Home-page: https://github.com/user/proj
+Author: Author of the Project
+Author-email: author@company.com
+License: UNKNOWN
+Description: I would just open("README.md").read() here
+Platform: UNKNOWN

@@ -1,0 +1,15 @@
+setup.py
+agite_scraper.egg-info/PKG-INFO
+agite_scraper.egg-info/SOURCES.txt
+agite_scraper.egg-info/dependency_links.txt
+agite_scraper.egg-info/top_level.txt
+agite_spider/__init__.py
+agite_spider/items.py
+agite_spider/middlewares.py
+agite_spider/pipelines.py
+agite_spider/settings.py
+agite_spider/spiders/__init__.py
+agite_spider/spiders/dynamic_spider.py
+agite_spider/spiders/first_spider.py
+agite_spider/spiders/linkedin.py
+agite_spider/spiders/researchgate.py
